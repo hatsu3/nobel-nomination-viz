@@ -1,4 +1,4 @@
-const dataset_path = '../data/dataset/',
+const dataset_path = '../data/',
     nomination_json_path = dataset_path + 'nomination_2.json',
     people_json_path = dataset_path + 'people.json',
     country_json_path = dataset_path + 'people_country.json';
